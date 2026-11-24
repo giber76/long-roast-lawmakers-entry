@@ -13,6 +13,9 @@
 //   - keeps its aim on lawmakers and the rules they write, and lands the
 //     punch on the last two words, "since Tuesday" — the conversion has been
 //     failing for days while the legislating races ahead.
+//   - and the tense does the work: "will decide" (future authority, the bill
+//     isn't law yet) against "has been trying" (present, ongoing failure) —
+//     the power they claim is ahead of them, the incompetence is already here.
 // Run outside the grader, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
